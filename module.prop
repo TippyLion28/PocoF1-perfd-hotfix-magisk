@@ -1,0 +1,6 @@
+id=PocoF1_QTI_perfd_Disable
+name=PocoF1 QTI perfd Disable
+version=1.0
+versionCode=1
+author=BluntKnife
+description=Hotfix for broken frequency selection on Poco F1
